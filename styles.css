@@ -1,0 +1,255 @@
+#page { 
+	overflow:hidden;
+	background-color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:400px;
+	height:297px;
+	position:absolute;
+}
+
+.cont1{
+	display: flex;
+	margin-top: 10%;
+	margin-left: 20px;
+	}
+
+
+
+
+img {
+	height: 50px;
+}
+
+.jpg img {
+	height: 100px;
+}
+
+
+
+
+
+
+#background { 
+	opacity:1;
+	width:400px;
+	height:297px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/erain_drops_rainy_wet_droplets_nature_water_background_rain_drops_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#nedelia { 
+	opacity:1;
+	width:401px;
+	height:114px;
+	position:absolute;
+	left:0px;
+	top:182px;
+}
+#day4 { 
+	opacity:1;
+	width:100px;
+	height:114px;
+	position:absolute;
+	left:300px;
+	top:-1.4210854715202004e-14px;
+}
+#name_day { 
+	color:rgb(218, 240, 18);
+	opacity:1;
+	width:61px;
+	height:18px;
+	position:absolute;
+	left:20px;
+	top:10px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#pict4 { 
+	opacity:1;
+	width:49px;
+	height:57px;
+	position:absolute;
+	left:18px;
+	top:37px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#temp_ned { 
+	color:rgb(18, 89, 240);
+	opacity:1;
+	width:63px;
+	height:21px;
+	position:absolute;
+	left:18px;
+	top:79px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#day3 { 
+	opacity:1;
+	width:100px;
+	height:114px;
+	position:absolute;
+	left:200px;
+	top:-1.4210854715202004e-14px;
+}
+
+#pict3 { 
+	opacity:1;
+	width:49px;
+	height:57px;
+	position:absolute;
+	left:18px;
+	top:37px;
+
+}
+#day2 { 
+	opacity:1;
+	width:100px;
+	height:114px;
+	position:absolute;
+	left:100px;
+	top:-1.4210854715202004e-14px;
+}
+#pict2 { 
+	opacity:1;
+	width:49px;
+	height:57px;
+	position:absolute;
+	left:18px;
+	top:37px;
+}
+#day1 { 
+	opacity:1;
+	width:100px;
+	height:114px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+#pict1 { 
+	opacity:1;
+	width:49px;
+	height:57px;
+	position:absolute;
+	left:18px;
+	top:37px;
+}
+#main { 
+	opacity:1;
+	width:401px;
+	height:183px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+#acity { 
+	color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:133px;
+	height:35px;
+	position:absolute;
+	left:259px;
+	top:103px;
+}
+.test[placeholder]:empty:before {
+    content: attr(placeholder);
+    color:rgb(121, 255, 177); 
+}
+#month { 
+	color:rgb(131, 255, 183);
+	opacity:1;
+	width:63px;
+	height:24px;
+	position:absolute;
+	left:318px;
+	top:19px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#day { 
+	color:rgb(131, 255, 183);
+	opacity:1;
+	width:47px;
+	height:22px;
+	position:absolute;
+	left:259px;
+	top:19px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+
+#input {
+color:rgb(13, 221, 100);}
+
+
+
+#time { 
+	color:rgb(112, 203, 255);
+	opacity:1;
+	width:134px;
+	height:43px;
+	position:absolute;
+	left:259px;
+	top:57px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#weather { 
+	color:rgb(233, 255, 111);
+	opacity:1;
+	width:142px;
+	height:42px;
+	position:absolute;
+	left:259px;
+	top:141px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#temp { 
+	color:rgb(101, 255, 165);
+	opacity:1;
+	width:91px;
+	height:32px;
+	position:absolute;
+	left:43px;
+	top:148px;
+	font-family:Puritan;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+.sun { 
+	position:absolute;
+	left:-5px;
+	top:26px;
+}
+.cloud{
+	opacity: 0.8;
+	width: 35%;
+	left:-5px;
+	top:26px;
+}
