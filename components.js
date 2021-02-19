@@ -15,7 +15,7 @@ export function App(props) {
     
     <span id="month">${props.currentDate[0]}</span>
     <span id="day">${props.currentDate[1]}</span>
-    <span id="time">${new Date(Date.now()).toTimeString().slice(0,5)}</span>
+    <span id="time">${props.currentTime}</span>
     <span id="weather">${props.currentWeather}</span>
     
     <div id=temp class="top text temp" style="font-size: 45px">${props.currentTemp}°</div>
